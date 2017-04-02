@@ -7,7 +7,7 @@ Experiment II for Computer Graphics
 - [Eigen](http://eigen.tuxfamily.org/)
 
 
-##Usage:
+## Usage:
 - W A S D: Move
 - Space (Shift+Space): Up/Down
 - Z: Switch walking status
