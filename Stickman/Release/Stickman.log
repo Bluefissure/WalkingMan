@@ -1,0 +1,15 @@
+﻿  main.cpp
+  Generating code
+  All 8 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+glut32.lib(glut32.dll) : error LNK2026: module unsafe for SAFESEH image.
+glut32.lib(glut32.dll) : error LNK2026: module unsafe for SAFESEH image.
+glut32.lib(glut32.dll) : error LNK2026: module unsafe for SAFESEH image.
+glut32.lib(glut32.dll) : error LNK2026: module unsafe for SAFESEH image.
+glut32.lib(glut32.dll) : error LNK2026: module unsafe for SAFESEH image.
+glut32.lib(glut32.dll) : error LNK2026: module unsafe for SAFESEH image.
+glut32.lib(glut32.dll) : error LNK2026: module unsafe for SAFESEH image.
+glut32.lib(glut32.dll) : error LNK2026: module unsafe for SAFESEH image.
+glut32.lib(glut32.dll) : error LNK2026: module unsafe for SAFESEH image.
+glut32.lib(glut32.dll) : error LNK2026: module unsafe for SAFESEH image.
+D:\Source Files\Visual Studio 2015\Projects\OpenGL\Stickman\Release\Stickman.exe : fatal error LNK1281: Unable to generate SAFESEH image.

@@ -1,0 +1,4 @@
+﻿  main.cpp
+d:\source files\visual studio 2015\projects\opengl\stickman\eigen\eigen\src\core\arch\cuda\half.h : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+  Stickman.vcxproj -> D:\Source Files\Visual Studio 2015\Projects\OpenGL\Stickman\Debug\Stickman.exe
+  Stickman.vcxproj -> D:\Source Files\Visual Studio 2015\Projects\OpenGL\Stickman\Debug\Stickman.pdb (Full PDB)
